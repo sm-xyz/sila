@@ -1,0 +1,8 @@
+# SILA Git Ignore
+sila-daemon
+*.db
+*.db-wal
+*.db-shm
+data/
+sila.env
+.DS_Store
